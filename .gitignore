@@ -1,0 +1,7 @@
+.DS_Store
+logs/
+nginx/
+mysql/
+wordpress/
+!.env_example
+!nginx/default*
